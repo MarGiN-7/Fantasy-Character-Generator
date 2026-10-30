@@ -1,3 +1,26 @@
+# 🧙 Fantasy Character Creator
+
+Welcome to Fantasy Character Creator — an interactive fantasy game prototype that lets you bring your own legendary heroes to life!
+
+Generate unique fantasy characters, explore different character classes, create AI-powered portraits, discover character backstories, and customize player cards with randomized stats.
+
+### ✨ Key Features
+- 🎭 Random fantasy character generation
+- ⚔️ Multiple character classes
+- 🎨 AI-powered character portraits
+- 📖 Unique fantasy backstories
+- ❤️ Randomized Health, Mana, and Strength stats
+- 🃏 Interactive fantasy player cards
+- 📚 My Deck — save and manage your favorite characters
+
+### 🎯 Project Goal
+Built as a game jam challenge to explore AI-assisted application development and natural-language prompting using Google AI Studio.
+
+**Create Your Hero. Generate Your Legend. Build Your Deck!**
+
+
+
+
 # Fantasy Character Generator
 
 AI-powered fantasy character generator with character names, portraits, backstories, and RPG stats.
